@@ -1,1 +1,3 @@
-This file is a jupyter file can be run on Google colab or mybinder 
+This file is a jupyter file 
+Due to tkinter limitation it wont be run through google colab or binder.
+Find the .py doc to run this code and also find the manual to download the libraries
